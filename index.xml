@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebStack-Hugo 分类导航</title>
+    <link>./</link>
+    <description>Recent content on WebStack-Hugo 分类导航</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate>
+    <atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>./about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      <guid>./about/</guid>
+      <description>&lt;!-- #### 这是 Hugo 版 WebStack 主题 --&gt;&#xA;&lt;!-- 本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：&lt;br/&gt;&lt;br/&gt; --&gt;&#xA;&lt;!-- - [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io) --&gt;&#xA;&lt;!-- - [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo) --&gt;&#xA;&lt;!-- &lt;br/&gt; --&gt;&#xA;&lt;!-- 主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。 --&gt;&#xA;&lt;!-- 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。 --&gt;&#xA;&lt;!-- WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！ --&gt;&#xA;&lt;!-- &lt;br/&gt; --&gt;&#xA;&lt;!-- #### 主题开源地址 --&gt;&#xA;&lt;!-- [https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo) --&gt;&#xA;&lt;!-- &lt;br/&gt; --&gt;&#xA;&lt;!-- #### 主题演示地址 --&gt;&#xA;&lt;!-- - [https://nav.bioitee.com](https://nav.bioitee.com) --&gt;&#xA;&lt;!-- - [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo) --&gt;</description>
+    </item>
+  </channel>
+</rss>

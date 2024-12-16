@@ -317,7 +317,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .btn-dark:not(:disabled):not(.disabled):active:focus,.btn-dark:not(:disabled):not(.disabled).active:focus,.show>.btn-dark.dropdown-toggle:focus{box-shadow:none}
 .btn-outline-danger{color:#f1404b;border-color:#f1404b}
 .btn-outline-danger:hover{color:#fff;border-color:#f1404b;background-color:#f1404b}
-.text-muted a{color:#6c757d}
+.text-muted a{color:#6e7d6c}
 .text-muted a:hover{color:#5e6d5c}
 .custom-switch .custom-control-label::before{height:1.125rem;width:2rem;border-radius:.57rem;background-color:transparent}
 .custom-switch .custom-control-label::after{width:calc(1.125rem - 4px);height:calc(1.125rem - 4px)}
@@ -810,8 +810,8 @@ to{-webkit-transform:translate(251px,-200px) rotate(180deg)}
 100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}
 }
 /* --- users --- */
-.user-bg{height:269px;margin-top:-75px;position:relative;background-color:rgba(5,15,25,.2);background-repeat:no-repeat;background-size:cover;background-position:center center}
-.user-bg::before{content:"";position:absolute;left:0;height:240px;right:0;bottom:0;background-image:linear-gradient(to top,#000000 0%,transparent 60%);transition:.3s}
+.user-bg{height:269px;margin-top:-75px;position:relative;background-color:rgba(255, 47, 0, 0.2);background-repeat:no-repeat;background-size:cover;background-position:center center}
+.user-bg::before{content:"";position:absolute;left:0;height:240px;right:0;bottom:0;background-image:linear-gradient(to top,#9e9a9a 0%,transparent 60%);transition:.3s}
 .user-area .avatar-body{display:inline-block;min-height:112px;min-width:112px}
 .user-area img{max-width:100%}
 .bg-white,.border-light{transition:.3s}
